@@ -1,5 +1,5 @@
 name: Gradual Black Formatter
-author: Rocio Aramberri
+author: Rocio Aramberri, Ivan Rudovol
 description: Gradually runs the black formatter on your codebase starting from the files that were last modified longer ago.
 
 runs:
